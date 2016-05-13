@@ -18,6 +18,10 @@ h1{
 	font-size: 48px!important;
 }
 
+.no-padding{
+	padding: 0px!important;
+}
+
 .col-md-8{
 	//background-color: #fcfcfc!important;
 	background-color: #fff!important;
@@ -56,9 +60,20 @@ h1{
 	float: left;
 	max-width: 40%;
 }
-.heroin-img-right{
+
+.heroin-img-2{
 	float: right;
-	max-width: 33vw;
+	max-width: 50%;
+}
+
+.heroin-img-3{
+	float: left;
+	max-width: 50%;
+}
+
+.heroin-img-4{
+	float: right;
+	max-width: 60%;
 }
 
 .text-row-1{
