@@ -108,10 +108,10 @@ h1{
 }
 
 .carousel-caption{
+	position:relative;
 	font-size: 12px;
-	top: 710px!important;
 	left: 0px!important;
-	right: 0px!important;
+	right:auto;
 	z-index: 5;
 	color: #000!important;
 	text-shadow: none!important;
