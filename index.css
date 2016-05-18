@@ -15,7 +15,7 @@ span{
 }
 
 h1{
-	font-size: 48px!important;
+	font-size: 72px!important;
 }
 
 .no-padding{
@@ -55,6 +55,15 @@ h1{
 .header{
 	text-align: center;
 }
+
+.dropcap p:first-child::first-letter{
+	font-size: 50px;
+	float: left;
+	line-height: 40px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+	}
 
 .heroin-img{
 	float: left;
